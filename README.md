@@ -21,4 +21,5 @@ At the moment there is one project:
 
 * Whitepaper on Job specific performance monitoring: https://github.com/RRZE-HPC/DFG-PE/projects/1
 
+Although this README is written in English, the language is not fixed. See [#4](/../../issues/4).
 
